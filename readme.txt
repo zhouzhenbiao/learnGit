@@ -9,4 +9,8 @@ Git tracks changes of files.
 
 因为第一次连接上了远程库，所以进行一次本地修改然后推送到远程库中去
 
-Create a new branch is quick & simple.
+<<<<<<< HEAD
+Create a new branch is quick and simple.
+=======
+Create a new branch is quick AND simple.
+>>>>>>> feature1
