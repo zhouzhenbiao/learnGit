@@ -11,3 +11,4 @@ Git tracks changes of files.
 
 Create a new branch is quick and simple.
 
+需要重复添加吗？
